@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "name": "Work1",
+      "price": "320",
+      "imgPath": "upload/Work1.jpg"
+    }
+  ],
+  "skills": [
+    {
+      "type": "age",
+      "number": "12",
+      "text": "Возраст начала занятий на скрипке"
+    },
+    {
+      "type": "concerts",
+      "number": "12",
+      "text": "Концертов отыграл"
+    },
+    {
+      "type": "cities",
+      "number": "12",
+      "text": "Максимальное число городов в туре"
+    },
+    {
+      "type": "years",
+      "number": "12",
+      "text": "Лет на сцене в качестве скрипача"
+    }
+  ],
+  "user": {
+    "login": "admin@d.com",
+    "salt": "54b7079bd6e694b8da8ea27ed71d3af4",
+    "hash": "035b79260f645f5a862b4aa5224a09200800fbe785fa1804396c4fc2e9280ae448483033e0773b3c5ec492ab5a841024d0e2239f88be3eae19589f0f3ae0f620ecdb12bed71eb4ab0474f09e48db751c9155aa03d739cd43e71d3066a0cf9604f130c513ce9dd7066638a1001733b39b"
+  },
+  "messages": [
+    {
+      "name": "alan",
+      "email": "admin@d.com",
+      "message": " das das"
+    }
+  ]
+}
